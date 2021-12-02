@@ -1,0 +1,11 @@
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\bin\Debug\Aplikasi Calculator Windows Form.exe.config
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\bin\Debug\Aplikasi Calculator Windows Form.exe
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\bin\Debug\Aplikasi Calculator Windows Form.pdb
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi Calculator Windows Form.csprojAssemblyReference.cache
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi_Calculator_Windows_Form.frmCalc.resources
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi_Calculator_Windows_Form.frmHasil.resources
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi_Calculator_Windows_Form.Properties.Resources.resources
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi Calculator Windows Form.csproj.GenerateResource.cache
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi Calculator Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi Calculator Windows Form.exe
+C:\Users\Ravenusa\source\repos\Aplikasi Calculator Windows Form\obj\Debug\Aplikasi Calculator Windows Form.pdb
